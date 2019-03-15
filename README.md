@@ -1,4 +1,29 @@
-# hui-iviewhtml
+# zsqtony.github.io
 
-# （vue2.5+） + iview3.0的集合后台管理系统
-## 快速搭建起后台ui，无需再设计
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
