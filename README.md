@@ -25,6 +25,9 @@ views  //view组建页面
 App.vue
 main.js
 ```
+#### 图片预览
+![登录页面](https://github.com/zsqtony/87ui/blob/master/img/login.jpg?raw=true)
+
 ```
 "eslint.autoFixOnSave": true, vscode保存格式化代码
 ```
